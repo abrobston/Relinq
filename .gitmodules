@@ -1,0 +1,4 @@
+[submodule "Relinq/Core/EagerFetching"]
+	path = Relinq/Core/EagerFetching
+	url = https://github.com/abrobston/Relinq-EagerFetching.git
+	branch = net35
