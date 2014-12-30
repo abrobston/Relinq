@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Remotion.Linq.Backport</id>
+    <version>$version$</version>
+    <authors>$author$</authors>
+    <licenseUrl>https://www.gnu.org/licenses/lgpl-2.1-standalone.html</licenseUrl>
+    <projectUrl>https://github.com/abrobston/Relinq</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Created .nupkg from version 1.13.194.0, the last upstream release to support .NET 3.5.</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>relinq remotion backport</tags>
+  </metadata>
+</package>

@@ -70,9 +70,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\AssemblyInfoShared.cs">
-      <Link>Properties\AssemblyInfoShared.cs</Link>
-    </Compile>
     <Compile Include="Clauses\AdditionalFromClause.cs" />
     <Compile Include="Clauses\CloneContext.cs" />
     <Compile Include="Clauses\Expressions\ExtensionExpression.cs" />
@@ -282,6 +279,7 @@
     <Compile Include="Utilities\ReSharperAnnotations\UsedImplicitlyAttribute.cs" />
     <Compile Include="Utilities\SeparatedStringBuilder.cs" />
     <None Include="Doc\include\GettingStartedWithRelinq.aml" />
+    <None Include="Linq.Core.csproj.nuspec" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Doc\include\Remotion.Linq.NamespaceDoc.xml" />

@@ -29,3 +29,23 @@ using System.Security;
 [assembly: AssemblyCulture("")]
 [assembly: CLSCompliant(true)]
 [assembly: AllowPartiallyTrustedCallers] // required for sandbox tests
+[assembly: AssemblyConfiguration(".NET Framework: net-3.5, build type: Release")]
+[assembly: AssemblyCompany("rubicon IT GmbH")]
+[assembly: AssemblyProduct ("re-linq project (relinq.codeplex.com)")]
+[assembly: AssemblyCopyright ("Copyright (c) rubicon IT GmbH, www.rubicon.eu - Licensed under GNU LGPL 2.1 (or later)")]
+[assembly: AssemblyTrademark ("")]
+[assembly: AssemblyInformationalVersion ("1.13.194.2 DEV Release; RWS custom build")]
+
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
+
+[assembly: AssemblyVersion("1.13.194.2")]
+[assembly: AssemblyFileVersion ("1.13.194.2")]
