@@ -1,3 +1,5 @@
 *.snk
 bin
 obj
+*.suo
+*~
